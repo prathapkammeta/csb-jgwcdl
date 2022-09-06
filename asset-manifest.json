@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prathapkammeta.github.io/csb-jgwcdl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/runtime-main.2aca6acf.js",
+    "runtime-main.js.map": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/runtime-main.2aca6acf.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://prathapkammeta.github.io/csb-jgwcdl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://prathapkammeta.github.io/csb-jgwcdl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://prathapkammeta.github.io/csb-jgwcdl/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aca6acf.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
